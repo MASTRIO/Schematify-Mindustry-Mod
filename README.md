@@ -3,5 +3,8 @@
 
 I mean there arn't many right now but whatever...
 
+# Schem Count
+**Schemcatics:** *5*
+
 # Contributing
 **Coming Soon...**
